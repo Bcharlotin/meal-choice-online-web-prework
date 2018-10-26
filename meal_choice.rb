@@ -1,4 +1,4 @@
-def meal_choice(meal_choice).to eq ("meat")
+def meal_choice(meal).to eq ("meat")
 end
    
 
